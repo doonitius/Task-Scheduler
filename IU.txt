@@ -1,0 +1,13 @@
+IU
+socute
+16-05-2021
+TASK 1 eight 1
+TASK 2 blueming 2
+TASK 3 bbibbbi 0
+TASK 4 palette 3
+TASK 5 heart 4
+EDGE 1 2 1
+EDGE 2 3 2
+EDGE 3 4 0
+EDGE 4 5 3
+EDGE 1 5 1

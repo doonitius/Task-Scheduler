@@ -1,0 +1,25 @@
+CPE111_project
+project_schedule_system
+13-8-2020
+TASK 1 Choose_topic 3
+TASK 2 Study_topic 5
+TASK 3 UI_design 7
+TASK 4 data_structure_design 9
+TASK 5 algorithm_design 10
+TASK 6 Coding_project 25
+TASK 7 Documentation 3
+TASK 8 Debugging 4
+TASK 9 Testing 1
+EDGE 1 2 3
+EDGE 2 3 5
+EDGE 2 4 5
+EDGE 2 5 5
+EDGE 3 6 7
+EDGE 3 8 7
+EDGE 4 6 9
+EDGE 4 8 9
+EDGE 5 6 10
+EDGE 5 8 10
+EDGE 6 7 25
+EDGE 8 7 4
+EDGE 7 9 3

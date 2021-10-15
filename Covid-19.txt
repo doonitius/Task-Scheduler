@@ -1,0 +1,16 @@
+Covid-19
+pandermic
+30-5-2020
+TASK 1 Quarantine 14
+TASK 2 Sanitize 3
+TASK 3 Social_distance 30
+TASK 4 Face_mask 7
+TASK 5 Alcohol_gel 15
+TASK 6 Wash_hand 2
+TASK 7 Curfew 60
+EDGE 1 4 14
+EDGE 2 4 3
+EDGE 4 6 7
+EDGE 4 5 7
+EDGE 5 7 15
+EDGE 3 5 30

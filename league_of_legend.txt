@@ -1,0 +1,8 @@
+league_of_legend
+champion
+18-09-2020
+TASK 1 ekko 12
+TASK 2 akali 8
+TASK 3 lucian 2
+TASK 4 karma 14
+TASK 5 jhin 4

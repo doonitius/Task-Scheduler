@@ -1,0 +1,12 @@
+hiew
+jingjing
+15-08-2020
+TASK 1 pasta 8
+TASK 2 sushi 3
+TASK 3 chicken 4
+TASK 4 pizza 12
+TASK 5 milk 9
+EDGE 1 5 8
+EDGE 5 4 9
+EDGE 3 2 4
+EDGE 1 2 8
